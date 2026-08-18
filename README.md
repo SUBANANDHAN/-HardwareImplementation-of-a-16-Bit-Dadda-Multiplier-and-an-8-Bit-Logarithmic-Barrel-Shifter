@@ -1,0 +1,1 @@
+# -HardwareImplementation-of-a-16-Bit-Dadda-Multiplier-and-an-8-Bit-Logarithmic-Barrel-Shifter
