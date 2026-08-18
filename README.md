@@ -1,9 +1,5 @@
 # Hardware Implementation of a 16-Bit Dadda Multiplier and an 8-Bit Logarithmic Barrel Shifter 
  
-**Author:** Subanandhan Nagarajan  
-**Course/ID:** 25M1257  
-**Category:** Self-Project  
- 
 ## Project Overview 
 This repository contains the RTL design, simulation, and hardware implementation of two fundamental digital logic blocks: a 16-bit signed Dadda Multiplier and an 8-bit Logarithmic Barrel Shifter. The project includes behavioral simulations, post-synthesis timing simulations, and full hardware block designs mapped to an FPGA. 
  
